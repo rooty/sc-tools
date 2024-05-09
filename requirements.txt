@@ -1,0 +1,7 @@
+uvicorn[standard]
+gunicorn
+fastapi[all]
+requests
+aiohttp
+asyncio
+sentry_sdk
